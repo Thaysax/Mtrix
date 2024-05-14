@@ -1,2 +1,2 @@
-# Mtrix
+# Matrix
 Arquivos Python de estudo
